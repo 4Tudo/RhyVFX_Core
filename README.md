@@ -17,7 +17,7 @@ Song: CloudField - Raining
 ### 安装和运行
 *（在完成开发之前最好克隆仓库）*
 1. 克隆本仓库到本地
-2. 安装游戏所需的依赖(`pip install ursina`)
+2. 安装游戏所需的依赖(`pip install ursina==6.1.2`必须为6.1.2)
 3. 运行游戏主程序(`python main.py`)
 
 ### 游戏玩法
